@@ -1,0 +1,22 @@
+$nav-background: rgba(25, 38, 63, 1);
+$nav-title-size: 2em;
+
+
+.link {
+  margin-right: 30px;
+  font-size: 1.2em;
+  margin-top: 5px;
+}
+
+.navbar-default {
+  li {
+    list-style: none;
+  }
+}
+
+
+@media (max-width: 815px) {
+  .link {
+    margin-right: 20px;
+  }
+}

@@ -1,0 +1,7 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import '~font-awesome/scss/font-awesome.scss';
+@import './resets';
+@import './shared';
+@import '../features/app/components/app/app';
+@import '../features/app/components/nav/nav';
+@import '../features/app/components/home/home';
